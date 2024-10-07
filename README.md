@@ -1,3 +1,5 @@
+[Home](/) | [Angulus](/angulus)
+
 # About Us
 
 **Yonaga.app** is dedicated to creating iOS-focused apps that fuse cutting-edge technology with thoughtful design. Our mission is simple: to make the world better than it was yesterday. By developing innovative tools, we aim to contribute to the well-being of humankind, enhancing everyday life through intuitive, beautifully crafted applications.
