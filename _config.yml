@@ -1,2 +1,4 @@
 title: "Yonaga"
 baseurl: "" # Leave empty for a user or organization site
+theme: jekyll-theme-midnight
+google_analytics: G-KPY2DKJWP3
