@@ -1,6 +1,9 @@
 ---
+
 layout: default
 title: Angulus
+google_analytics: G-KPY2DKJWP3
+
 ---
 
 # Angulus: Measure Angles Accurately with Ease
