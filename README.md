@@ -1,3 +1,10 @@
+---
+
+title: 'Yonaga.app'
+google_analytics: G-KPY2DKJWP3
+
+---
+
 [Home](/) | [Angulus](/angulus)
 
 # Yonaga.app
