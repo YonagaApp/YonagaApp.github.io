@@ -1,6 +1,7 @@
 ---
 
-title: 'Yonaga.app'
+layout: default
+title: Yonaga.app
 google_analytics: G-KPY2DKJWP3
 
 ---
