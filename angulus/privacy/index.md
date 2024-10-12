@@ -1,5 +1,7 @@
 # Privacy Statement for Angulus App
 
+<br>
+
 # Introduction
 Your privacy is important to us. This Privacy Statement explains how Angulus collects, uses, and safeguards your information when you use our app or visit our website.
 
