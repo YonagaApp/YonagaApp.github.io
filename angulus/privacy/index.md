@@ -1,4 +1,4 @@
-# Privacy Statement for Angulus App
+# Privacy Policy for Angulus App
 
 <br>
 
