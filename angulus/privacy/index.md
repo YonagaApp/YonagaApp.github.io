@@ -3,7 +3,7 @@
 <br>
 
 # Introduction
-Your privacy is important to us. This Privacy Statement explains how Angulus collects, uses, and safeguards your information when you use our app or visit our website.
+Your privacy is important to us. This Privacy Policy explains how Angulus collects, uses, and safeguards your information when you use our app or visit our website.
 
 # Data Collection
 Angulus respects your privacy and recognizes the importance of protecting your Personal Health Information (PHI). We do not collect or store any user-generated data, measurements, or images on our servers. All measurement activities and images remain solely on your device.
